@@ -1,1 +1,1 @@
-# Simple_Calc_-HTML-CSS-JS-
+# Simple_Calculator using HTML, CSS & JAVASCRIPT
